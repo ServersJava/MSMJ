@@ -7450,3 +7450,7 @@
 [10Dec2024 19:41:45.147] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$replacePostLoad$0(Lnet/minecraft/nbt/CompoundNBT;Lnet/minecraft/world/chunk/Chunk;)V to mdef2f67$lambda$replacePostLoad$0$0 in ferritecore.chunknbt.mixin.json:ChunkSerializerMixin
 [10Dec2024 19:41:46.260] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Dec2024 19:41:46.279] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 19:46:45.205] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 19:46:45.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 19:51:45.234] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 19:51:45.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
